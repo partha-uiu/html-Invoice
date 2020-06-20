@@ -11,7 +11,6 @@ body {
  width: 922px;
 }
 
-
 #main { 
     float: left;
     color: #333;
@@ -24,7 +23,6 @@ body {
     border-left: 50px solid #00B8A9;
     overflow: hidden;
     width: 100%;
-
 }
 
 #header {
@@ -34,7 +32,7 @@ body {
   height: 100px;
   margin: 10px 0px 5px 0px;
   background: #ABBEBE;
- }
+}
  
 #footer { 
  width: 902px;
@@ -95,8 +93,7 @@ body {
     display: inline;
     position: relative;
     min-height: 237px;
-    background-color: #ffffff;
-    
+    background-color: #ffffff;   
 }
 
 #customer{
@@ -114,7 +111,6 @@ body {
   font-size: 16px;
   letter-spacing: 1px;
   padding-left: 30px
-
 }
 
 #item-content {
@@ -130,7 +126,7 @@ body {
   border-collapse: collapse;
   border-spacing: 0;
   width: 100%;
-  }
+}
 
 #item-table th, td {
   text-align: left;
@@ -155,12 +151,10 @@ body {
 #item-table-wrapper  {
   padding-left: 40px;
   padding-right: 40px;
-  
   height: 100%;
 }
 
 #item-table-wrapper #calculation {
-
   float: right;
   margin-right: 130px;
 }
@@ -179,7 +173,6 @@ body {
   padding-top: 44px;
   font-size: 15px;
   margin-bottom: 20px;
-
 }
 
 #compliment-word {
@@ -190,7 +183,6 @@ body {
   margin-bottom: 10px;
   letter-spacing: 2px;
   padding-top: 52px;
-
 }
 
 #contact .f-hr{
@@ -200,7 +192,7 @@ body {
   clear: both;
   margin: 0 auto
 }
-  
+
 .color-common {
     color: #00B8A9;
 }
@@ -233,10 +225,8 @@ body {
 }
 
 .pl-0{
-
     padding-left: 0px !important;
 }
-
 
 .date-inv{
     margin-left: 40px;
@@ -245,7 +235,6 @@ body {
 #ca {
     font-size: 16px;
 }
-
 
 .fnt-osw {
   font-family: Oswald !important;
@@ -278,10 +267,7 @@ body {
   padding: 10px;
   font-size: 16px;
   margin-top: 80px;
-
 }
-
-
 
 .myButton {
 	background-color:#00B8A9;
@@ -323,8 +309,7 @@ body {
 }
 
 .paypal-btn{
-
-  background-color:#00B8A9;
+	background-color:#00B8A9;
 	border-radius:3px;
 	display:inline-block;
 	cursor:pointer;
@@ -335,5 +320,4 @@ body {
 	padding:7px 24px;
 	text-decoration:none;
 	text-shadow:0px 1px 0px #528ecc;
-
 }
